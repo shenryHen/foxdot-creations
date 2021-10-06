@@ -2,3 +2,5 @@
 FoxDot.start
 
 FoxDot.stop
+
+Server.killAll
