@@ -12,12 +12,16 @@ m1 >> play(': ::: ::', amp=0.1)
 t1 >> play(P['P '] | P['  '].duplicate(3) | P['  '].duplicate(2) | P['pPPp'], amp=0.5, sample=2, bpm=248)
 c1 >> play(P['d  d  d   d d   '], sample=4, bpm=248)
 
+
+############# prod music ################# 
 # better pecussion pattern
 ## pattern concatted
-p1 >> play( P['P '] | P['  '].duplicate(3) | P['  '].duplicate(2) | P['pPPp'], sample=6)
-p1 >> play('::: ::: ', sample=6, amp=0.1)
-p3 >> play(P['d  d  d   d d   '], sample=4)
 
+c1 >> play(P['d  d  d   d d   '], sample=4)
+
+t1 >> play(P['P '] | P['  '].duplicate(3) | P['  '].duplicate(2) | P['pPPp'], amp=0.5, sample=2)
+
+m1 >> play(': ::: ::', amp=0.1)
 
 # 1/2 = quarter note
 # 1/4 = eigth noto
@@ -27,7 +31,7 @@ k1 >> marimba(
     dur=[rest(1/4),    1/2,    1/4, rest(1/4),    1/2,    1/4,      1/2,     1/2,     1/2, rest(1/4),     1/4,  rest(1/4),    1/2,     1/4,  rest(1/4),    1/2,    1/4,      1/2,   1/2,     1/2, rest(1/4),    1/4], 
     sus=P[0, 1, 0.5, 0,  1, 0.5, 1, 1, 1, 0, 0.5, 0, 1, 0.5, 0, 1, 0.5, 1, 1, 1, 0, 0.5 ],
     root=5,
-    amp = 1
+    amp = 1,
 )
 
 

@@ -28,6 +28,9 @@ m2.stop()
 m3.stop()
 print(PDur(4,7)*2)
 
+#### high school mb cadence bass rhythm
+d1 >> play('[x ][ x][x ][ x][ x][ x][x ][  ]', sample=4, amp=1.5)
+
 
 
 

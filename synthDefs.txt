@@ -1,26 +1,38 @@
 ['loop', 'stretch', 'play1', 'play2', 'audioin', 'noise',
  'dab', 'varsaw', 'lazer', 'growl', 'bass', 'dirt', 'crunch',
- 'rave', 'scatter', 'charm', 'bell', 'gong', 'soprano',
+ 'rave', 'scatter', 'charm', 
+ 'bell' : actual metal bell, like on a ship 
+ 'gong': not a loud gong, more like chinese "bells"
+ 'soprano': space whistle
  'dub': like the dubstep wub wub    
- 'viola', 'scratch', 
+ 'viola', 8-bit viola sound
+ 'scratch', 
  'klank': airy sound, like sustained wind chimes
  'feel', 
- 'glass', like digital wind chimes and space cords
+ 'glass', like digital wind chimes and space cords, good for long sus
  'soft', 
  'quin': circus or street fair OST, 
- 'pluck', 'spark', 
- 'bip' : more soft lofi piano sounding 
+ 'pluck', 
+ 'spark': 
+ 'blip' : short and soft 1-hit, more soft lofi piano sounding 
  'ripple', 'creep', 'orient', 'zap', 
  'marimba': like a regular marimba, but echoy, like played behind a wall
- 'fuzz', 
+ 'fuzz',: sounds like a modem or loading screen
  'bug': buzzing space sounds
- 'pulse', 'saw', 'snick', 'twang', 
+ 'pulse': 8 bit sound, a bit longer than blip
+ 'saw', 'snick', 'twang', 
  'karp': sharp string plucking
  'arpy': digital keyboard but with low sustain
  'nylon': kinda spacey, but has trouble with playing lots of chords at once
- 'donk', 'squish', 'swell', 'razz', 'sitar', 
+ 'donk', 'squish', 
+ 'swell': goes up and down, with a bass undertone 
+ 'razz', 'sitar', 
  'star': space, but with more sustain.
- 'jbass', 'sawbass', 'prophet', 'pads', 'pasha', 'ambi', 
+ 'jbass',: 8-bit low frequency sound. 
+ 'sawbass', 'prophet', 
+ 'pads', : warp-like piano or keyboard
+ 'pasha', warping piano, with a vibrating wire undertone
+ 'ambi', 
  'space': kinda like satillite pinging in space. v similar to how space sounds in video games
  'keys': 80s disco keyboard
  'dbass', 

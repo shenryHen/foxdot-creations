@@ -30,6 +30,8 @@ p9 >> keys()
 
 p1.stop()
 
+# same as above, but following strict chord def (or it did.)
+# Dmin11 – Gmin7 – Dmin11 – Ebmin11 – C#dim7
 ch1 = (0, 1.5, 4,  6, 8, 10)
 ch2 = (3, 4.5, 7,  8.5)
 ch3 = ch1
